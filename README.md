@@ -24,8 +24,10 @@ Assumptions for Markov Chain :
 
 # Program
 ```python
-# Developed by:Kumaran.B
-# Reg no:212220230026
+# Developed by: Dineshkumar V
+# Reg no:212220230013
+
+
 import numpy as np
 p0=[0.3,0.2,0.5]
 p=[[0,2/3,1/3],[1/2,0,1/2],[1/2,1/2,0]]
